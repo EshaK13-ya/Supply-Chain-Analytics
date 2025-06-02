@@ -125,17 +125,17 @@ From “Inventory Levels per Product”:
 
 🎯 **Actionable Strategic Moves**:
 
-- ✅ **Optimize demand forecasting**: Use a blended model of **seasonality, historical delays, and trend analysis** to anticipate peaks and avoid reactive stocking.  
-- ✅ **Segment stock strategies by department**:  
+- **Optimize demand forecasting**: Use a blended model of **seasonality, historical delays, and trend analysis** to anticipate peaks and avoid reactive stocking.  
+-  **Segment stock strategies by department**:  
   - High-turnover products (e.g., Toys, Fitness) need **automated replenishment**.  
   - Low-frequency departments should have **buffer-based planning** to minimize overstock.  
-- ✅ **Conduct SKU-level audits**:  
+-  **Conduct SKU-level audits**:  
   - Flag items that are consistently over- or under-stocked.  
   - Reallocate stock across warehouses as needed.  
-- ✅ **Streamline warehouse operations**:  
+-  **Streamline warehouse operations**:  
   - Digitize picking routes.  
   - Prioritize **high-stock, high-delay SKUs** for faster dispatching.  
-- ✅ **Implement vendor scorecards**:  
+-  **Implement vendor scorecards**:  
   - Track **supplier performance** for lead times, quality, and fulfillment reliability.  
   - Penalize recurring delays or stockouts.  
 
@@ -147,9 +147,9 @@ This case study reveals that **operational inefficiencies are deeply interconnec
 
 By aligning **forecasting, procurement, inventory, and fulfillment workflows**, A to Z Supplies can unlock:
 
-- ✅ Better **service-level reliability**  
-- ✅ Reduced **operational waste**  
-- ✅ Higher **customer satisfaction**
+-  Better **service-level reliability**  
+-  Reduced **operational waste**  
+-  Higher **customer satisfaction**
 
 ---
 
